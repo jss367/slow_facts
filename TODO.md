@@ -6,3 +6,6 @@ Has the nyt ever blamed a minority? Stripping of agency
 API-based news… how long til the government runs out of money. Which bills have passed
 
 Show where all the AI safety bills are…
+
+How many experiments can you replicate with random noise instead of data?
+https://arxiv.org/abs/2401.11100
