@@ -15,3 +15,4 @@ https://arxiv.org/abs/2401.11100
 Superforecasting AIs might be the real win in prediction markets - Can we build AIs and make them superforecast?
 
 
+Automatic verification: https://github.com/Libr-AI/OpenFactVerification
