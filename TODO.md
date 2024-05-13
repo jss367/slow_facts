@@ -9,3 +9,9 @@ Show where all the AI safety bills are…
 
 How many experiments can you replicate with random noise instead of data?
 https://arxiv.org/abs/2401.11100
+
+
+
+Superforecasting AIs might be the real win in prediction markets - Can we build AIs and make them superforecast?
+
+
