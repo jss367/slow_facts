@@ -16,3 +16,7 @@ Superforecasting AIs might be the real win in prediction markets - Can we build 
 
 
 Automatic verification: https://github.com/Libr-AI/OpenFactVerification
+
+
+Link to wikipedia articles for things that are in the news
+Or have chatgpt help you. Imagine there’s a pipeline explosion, have gpt tell you the background about this
